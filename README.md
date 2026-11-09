@@ -10,7 +10,7 @@
   <a href="https://github.com/MehediHasanSumon/amar-bangla-kotha-docs/releases"><img src="https://img.shields.io/badge/Release-v1.0.0-blue.svg?style=for-the-badge" alt="Release v1.0.0" /></a>
   <a href="DOWNLOADS.md"><img src="https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20macOS-green.svg?style=for-the-badge" alt="Platforms" /></a>
   <a href="docs/BENCHMARK.md"><img src="https://img.shields.io/badge/Accuracy-97.2%25%20Top--1%20%7C%2098.1%25%20Top--3-brightgreen.svg?style=for-the-badge" alt="Accuracy" /></a>
-  <a href="https://github.com/MehediHasanSumon/amar-bangla-kotha"><img src="https://img.shields.io/badge/License-MIT-orange.svg?style=for-the-badge" alt="License" /></a>
+  <img src="https://img.shields.io/badge/License-Freeware-orange.svg?style=for-the-badge" alt="License" />
 </p>
 
 ---
@@ -88,50 +88,16 @@
 | **Testing & Sanity** | Catch2 unit tests, fuzz testing, AddressSanitizer (ASan/UBSan) | [docs/TESTING.md](docs/TESTING.md) |
 | **Backspace & Editing** | Nuances of deleting Bengali compound characters and vowels | [docs/BACKSPACE.md](docs/BACKSPACE.md) |
 | **Code Signing** | Security, Authenticode (Windows), and Notarization (macOS) | [docs/CODE_SIGNING.md](docs/CODE_SIGNING.md) |
-| **Cleanroom Provenance** | Cleanroom design compliance, licensing, and cleanroom verification | [docs/PROVENANCE.md](docs/PROVENANCE.md) |
 
 ---
 
-## 🛠️ Building From Source
+## 👨‍💻 Developer & Contact
 
-### Linux (Debian / Ubuntu / Fedora)
+- **Author**: **Md Mehedi Hasan**
+- **Website & Portfolio**: [https://mehedih.me/](https://mehedih.me/)
+- **GitHub**: [@MehediHasanSumon](https://github.com/MehediHasanSumon)
+- **Bug Reports & Feedback**: [GitHub Issues](https://github.com/MehediHasanSumon/amar-bangla-kotha-docs/issues)
 
-```bash
-# Clone the repository
-git clone https://github.com/MehediHasanSumon/amar-bangla-kotha.git
-cd amar-bangla-kotha
-
-# Build engine, CLI, and run tests
-make all
-make test
-
-# Build Debian .deb or Portable .tar.gz package
-make package-deb
-make package-tar
-
-# Run GUI
-python3 gui/app.py
-```
-
-### Windows (MSVC 2022)
-
-```cmd
-cmake -B build -A x64
-cmake --build build --config Release
-.\build\Release\abk_tests.exe
-```
-
-### macOS (Clang / CMake)
-
-```bash
-cmake -B build -DCMAKE_BUILD_TYPE=Release
-cmake --build build
-ctest --test-dir build --output-on-failure
-```
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](https://github.com/MehediHasanSumon/amar-bangla-kotha/blob/main/LICENSE).  
-Developed with ❤️ for the Bengali computing community.
+<p align="center">
+  <sub>© 2026 Md Mehedi Hasan. Amar Bangla Kotha. All rights reserved.</sub>
+</p>
