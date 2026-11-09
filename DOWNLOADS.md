@@ -11,7 +11,7 @@ Select your operating system below to download the latest production release pac
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Linux (Ubuntu / Debian / Mint)** | `.deb` package | `x86_64 / amd64` | [📥 Download .deb](https://github.com/MehediHasanSumon/amar-bangla-kotha-docs/releases/download/v1.0.0/amar-bangla-kotha_1.0.0_amd64.deb) | ~451 KB | `2706a8d30933acf48bc84881571baac597102b5da43053eefe7eaedb9bf22966` |
 | **Linux (Generic / Portable)** | `.tar.gz` archive | `x86_64` | [📥 Download .tar.gz](https://github.com/MehediHasanSumon/amar-bangla-kotha-docs/releases/download/v1.0.0/amar-bangla-kotha_1.0.0_linux_x86_64.tar.gz) | ~1.55 MB | `0a38588f3a31823a0c52aa71e29ea3fb61cccb1357abc8265b8b8bfe3629d662` |
-| **Windows 10 / 11** | Inno Setup `.exe` | `x64` | [📥 Download .exe](https://github.com/MehediHasanSumon/amar-bangla-kotha-docs/releases/download/v1.0.0/AmarBanglaKotha-Setup-1.0.0.exe) | Installer | *Generated via CI* |
+| **Windows 10 / 11** | Inno Setup `.exe` | `x64` | [📥 Download .exe](https://github.com/MehediHasanSumon/amar-bangla-kotha-docs/releases/download/v1.0.0/AmarBanglaKotha-Setup-1.0.0.exe) | 2.24 MB | `deec554918f201cdc049d8d7b6a022ac00869dba0ad0d89ccdc72a83e51f0f4f` |
 | **macOS (Sonoma / Ventura / Monterey)** | Native `.pkg` | `Universal / arm64 / x86_64` | [📥 Download .pkg](https://github.com/MehediHasanSumon/amar-bangla-kotha-docs/releases/download/v1.0.0/AmarBanglaKotha-1.0.0.pkg) | Package | 29 KB |
 
 > 🔗 **All Releases on GitHub**: [github.com/MehediHasanSumon/amar-bangla-kotha-docs/releases](https://github.com/MehediHasanSumon/amar-bangla-kotha-docs/releases)
