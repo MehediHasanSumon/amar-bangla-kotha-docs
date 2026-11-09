@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/MehediHasanSumon/amar-bangla-kotha/releases"><img src="https://img.shields.io/badge/Release-v1.0.0-blue.svg?style=for-the-badge" alt="Release v1.0.0" /></a>
+  <a href="https://github.com/MehediHasanSumon/amar-bangla-kotha-docs/releases"><img src="https://img.shields.io/badge/Release-v1.0.0-blue.svg?style=for-the-badge" alt="Release v1.0.0" /></a>
   <a href="DOWNLOADS.md"><img src="https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20macOS-green.svg?style=for-the-badge" alt="Platforms" /></a>
   <a href="docs/BENCHMARK.md"><img src="https://img.shields.io/badge/Accuracy-97.2%25%20Top--1%20%7C%2098.1%25%20Top--3-brightgreen.svg?style=for-the-badge" alt="Accuracy" /></a>
   <a href="https://github.com/MehediHasanSumon/amar-bangla-kotha"><img src="https://img.shields.io/badge/License-MIT-orange.svg?style=for-the-badge" alt="License" /></a>
@@ -19,10 +19,10 @@
 
 | OS | Package | Format | Direct Download Link |
 | :--- | :--- | :--- | :--- |
-| **Linux (Ubuntu / Debian / Mint)** | Debian Package | `.deb` | [⬇️ **Download .deb**](https://github.com/MehediHasanSumon/amar-bangla-kotha/releases/download/v1.0.0/amar-bangla-kotha_1.0.0_amd64.deb) |
-| **Linux (Generic / All Distros)** | Portable Archive | `.tar.gz` | [⬇️ **Download .tar.gz**](https://github.com/MehediHasanSumon/amar-bangla-kotha/releases/download/v1.0.0/amar-bangla-kotha_1.0.0_linux_x86_64.tar.gz) |
-| **Windows 10 / 11** | Full Installer | `.exe` | [⬇️ **Download Windows Installer**](https://github.com/MehediHasanSumon/amar-bangla-kotha/releases/download/v1.0.0/AmarBanglaKotha-Setup-1.0.0.exe) |
-| **macOS** | Installer Package | `.pkg` | [⬇️ **Download macOS Package**](https://github.com/MehediHasanSumon/amar-bangla-kotha/releases/download/v1.0.0/AmarBanglaKotha-1.0.0.pkg) |
+| **Linux (Ubuntu / Debian / Mint)** | Debian Package | `.deb` | [⬇️ **Download .deb**](https://github.com/MehediHasanSumon/amar-bangla-kotha-docs/releases/download/v1.0.0/amar-bangla-kotha_1.0.0_amd64.deb) |
+| **Linux (Generic / All Distros)** | Portable Archive | `.tar.gz` | [⬇️ **Download .tar.gz**](https://github.com/MehediHasanSumon/amar-bangla-kotha-docs/releases/download/v1.0.0/amar-bangla-kotha_1.0.0_linux_x86_64.tar.gz) |
+| **Windows 10 / 11** | Full Installer | `.exe` | [⬇️ **Download Windows Installer**](https://github.com/MehediHasanSumon/amar-bangla-kotha-docs/releases/download/v1.0.0/AmarBanglaKotha-Setup-1.0.0.exe) |
+| **macOS** | Installer Package | `.pkg` | [⬇️ **Download macOS Package**](https://github.com/MehediHasanSumon/amar-bangla-kotha-docs/releases/download/v1.0.0/AmarBanglaKotha-1.0.0.pkg) |
 
 👉 *For detailed checksums, dependencies, and step-by-step setup guides, read the [📥 Downloads Guide (DOWNLOADS.md)](DOWNLOADS.md).*
 
